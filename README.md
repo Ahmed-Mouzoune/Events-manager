@@ -1,5 +1,4 @@
-# EventsManager [![Release](https://github.com/Ahmed-Mouzoune/Events-manager/blob/master/assets/release-img.svg)](https://github.com/Ahmed-Mouzoune/Events-manager/releases/latest)
-![Logo EventsManager](https://user-images.githubusercontent.com/45047261/123288194-a090c500-d50f-11eb-9ffe-17d4f453b9af.png)
+# EventsManager
 
 **Maintainer:** [Ahmed Mouzoune](https://github.com/Ahmed-Mouzoune)
 
@@ -16,8 +15,6 @@ TABLE OF CONTENTS
 
 The EventsManager game is a free open source software that offers the possibility to create virtual life expenses simulations. EventsManager provides a fun and easy way to 
 to manage one's budget during events and help French people to better manage their money.
-
-![Preview plugin](https://user-images.githubusercontent.com/45047261/123388566-37559400-d599-11eb-88e4-051457a56d59.png)
 
 
 *In developement* you can see more in the roadmap [here](https://github.com/Ahmed-Mouzoune/Events-manager/projects)
