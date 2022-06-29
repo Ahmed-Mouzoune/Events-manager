@@ -1,0 +1,30 @@
+{
+  "name": "events-manager",
+  "version": "1.0.0",
+  "description": "Back of events-manager",
+  "scripts": {
+    "serve": "nodemon ./bin/www",
+    "start": "set DEBUG=foodcatalog-api:* & npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-Mouzoune/Events-manager.git"
+  },
+  "keywords": [
+    "Game"
+  ],
+  "author": "Ahmed Mouzoune",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ahmed-Mouzoune/Events-manager/issues"
+  },
+  "homepage": "https://github.com/Ahmed-Mouzoune/Events-manager#readme",
+  "dependencies": {
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
